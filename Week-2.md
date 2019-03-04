@@ -35,7 +35,7 @@ A div and span are both generic containers. A div is a block level container whi
 A CSS class is when several elements are given the same styling attributes. An id is used for styling only a single element specifically.
 
 4. Name 4 semantic HTML tags.
-<head>, <body>, <h1>, <footer>
+head, body, h1, footer
 
 5. What are three options for creating responsive design?
 You can set a viewport, or use a CSS framework like Bootstrap, or setting the width or picture to a percentage like 100% rather than a specific width and height.
